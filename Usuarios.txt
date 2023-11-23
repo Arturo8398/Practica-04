@@ -1,0 +1,7 @@
+1|Juan|Perez|ejemplo@.com|1234|
+4|Jose|Garcia|ejemplo4@.com|1234|
+6|Luis|Rodriguez|ejemplo6@.com|1234|
+1|Juan|Perez|ejemplo@.com|1234|
+4|Jose|Garcia|ejemplo4@.com|1234|
+6|Luis|Rodriguez|ejemplo6@.com|1234|
+222478596|Vanessa|Jacobo|vanesa@gmai.com|5741852963|
